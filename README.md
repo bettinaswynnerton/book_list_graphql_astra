@@ -6,6 +6,7 @@ The UI lists the content of a book database and allows to add new books to the d
 
 Here is a screenshot of the UI:
 
+<img width="600" alt="Screenshot 2020-09-25 at 16 19 06" src="https://user-images.githubusercontent.com/20337262/94285032-1b11c180-ff4b-11ea-8a3a-8ed7e5bf915d.png">
 
 The example is very much based on this FreeCodeCamp tutorial, with some adaptation to use Astra as the database, and some modifications for a newer version of the Apollo client. 
 
