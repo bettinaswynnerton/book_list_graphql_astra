@@ -2,6 +2,11 @@
 
 This is a simple example project with a GraphQL server connecting to a Datatax Astra databas, with a React UI.
 
+The UI lists the content of a book database and allows to add new books to the database. It pulls details about these books with graphQL.
+
+Here is a screenshot of the UI:
+
+
 The example is very much based on this FreeCodeCamp tutorial, with some adaptation to use Astra as the database, and some modifications for a newer version of the Apollo client. 
 
 https://www.youtube.com/watch?v=ed8SzALpx1Q
